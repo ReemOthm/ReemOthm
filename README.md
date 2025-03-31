@@ -3,7 +3,7 @@ My name is Reem, a Computer Science graduate :mortar_board: and a Junior Full St
 and building user-frendly web applications :computer:
 
 I have a knowledge and skills in Front-end developmet using   
-![image](https://github.com/user-attachments/assets/a3578594-384a-46f6-9274-cbeefdcc09c1)
+![image](https://github.com/user-attachments/assets/04347d29-7659-4677-b2e7-5bcb3c7fec80)
 
 Also in Back-end developmet using   
 ![image](https://github.com/user-attachments/assets/ff37ee96-adc1-42ef-81a8-86ff026892e1)
